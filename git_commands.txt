@@ -1,0 +1,18 @@
+git init
+
+git status
+
+git add filename
+
+git commit -m "Message"
+
+git restore filename
+
+git remote add origin url(GitHub repository) 
+
+git remote -v ( check status )
+
+git remote set-url origin pac repo-link
+
+git push origin master
+
