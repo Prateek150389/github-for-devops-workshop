@@ -6,7 +6,8 @@ def my_function():
     d = a + b + c
     print(d)
 
-    return d
+    return str(d) 
 
 
-my_function()
+result = my_function()
+print(result)
