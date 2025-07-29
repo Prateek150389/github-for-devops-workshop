@@ -1,7 +1,10 @@
-"""A simple script that prints a greeting message."""
+"""A script that prints a greeting and a Git learning message."""
 
-print("Hello Doston")
+def main():
+    """Prints greeting messages to the console."""
+    print("Hello Doston")
+    print("I am learning Git & GitHub")
 
-"""A simple script that prints a greeting message."""
+if __name__ == "__main__":
+    main()
 
-print("I am learning git & github")
